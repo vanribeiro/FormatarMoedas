@@ -30,7 +30,7 @@ public class FormatarMoedas {
 		System.out.println("Taiwan: " + taiwan);
 		System.out.println("Inglaterra: " + inglaterra);
 		
-		/*---Moedas com localidades contruídas------- */
+		/*---Moedas com localidades construídas------- */
 		String brasil, india, paraguai, argentina, arabiaSaudita, congo;
 		
 		Locale localBrasil = new Locale("pt", "BR");
